@@ -1,0 +1,15 @@
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/bin/Debug/net6.0/example012_ArrayLibrary
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/bin/Debug/net6.0/example012_ArrayLibrary.deps.json
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/bin/Debug/net6.0/example012_ArrayLibrary.runtimeconfig.json
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/bin/Debug/net6.0/example012_ArrayLibrary.dll
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/bin/Debug/net6.0/example012_ArrayLibrary.pdb
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.csproj.AssemblyReference.cache
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.AssemblyInfoInputs.cache
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.AssemblyInfo.cs
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.csproj.CoreCompileInputs.cache
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.dll
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/refint/example012_ArrayLibrary.dll
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.pdb
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/example012_ArrayLibrary.genruntimeconfig.cache
+/home/christopher/Рабочий стол/examples/example012_ArrayLibrary/obj/Debug/net6.0/ref/example012_ArrayLibrary.dll
